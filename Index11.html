@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+        
+        <div class="container">
+            <h1>Study Session Tracker</h1>
+            <h2 id="session-name-display" ></h2>
+            <h2 id="count-el">0</h2>
+            <input style ="display: block; margin: 0 auto; width: 30%; height: 30px; margin-bottom: 10px;" type="text" id="session-name" placeholder="Enter session name" oninput="updateSessionName()">
+
+            <button id="increment-btn" onclick="increment()">ADD SESSION</button>
+            <button id="save-btn" onclick="save()" >LOG SESSION</button>
+            <p id="save-el">Previous entires: </p>
+        </div>
+        
+
+    
+        <script src="index.js"></script>
+    </body>
+</html>
