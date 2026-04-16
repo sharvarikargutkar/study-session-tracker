@@ -1,11 +1,11 @@
-📚 Study Session Tracker
+# 📚 Study Session Tracker
 
 A simple and clean web application to track your study sessions with timestamps.
 Built using core JavaScript concepts to demonstrate DOM manipulation and dynamic UI updates.
 
 ---
 
- 🚀 Features
+## 🚀 Features
 
 * ➕ Add study sessions
 * 🕒 Automatically logs time of each session
@@ -16,7 +16,7 @@ Built using core JavaScript concepts to demonstrate DOM manipulation and dynamic
 
 ---
 
- 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
@@ -24,8 +24,14 @@ Built using core JavaScript concepts to demonstrate DOM manipulation and dynamic
 
 ---
 
+## 📸 Preview
 
- ⚙️ How It Works
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b0e41e4-f0aa-41e8-8b8d-f4a9a8cf34f9" />
+
+
+---
+
+## ⚙️ How It Works
 
 1. Enter the name of your study session (e.g., DSA, DBMS)
 2. Click **"Add Session"** to increase count
@@ -34,7 +40,7 @@ Built using core JavaScript concepts to demonstrate DOM manipulation and dynamic
 
 ---
 
- 📈 Learning Outcomes
+## 📈 Learning Outcomes
 
 This project demonstrates:
 
@@ -46,7 +52,7 @@ This project demonstrates:
 
 ---
 
- 🔮 Future Improvements
+## 🔮 Future Improvements
 
 * 💾 Save data using Local Storage
 * 🔐 Add user authentication
@@ -55,23 +61,23 @@ This project demonstrates:
 
 ---
 
- 📂 Project Structure
+## 📂 Project Structure
 
-
+```bash
 ├── index.html
 ├── style1.css
 ├── index.js
-
+```
 
 ---
 
- 🤝 Contribution
+## 🤝 Contribution
 
 This is a beginner-friendly project. Feel free to fork and improve it.
 
 ---
 
-⭐ Acknowledgment
+## ⭐ Acknowledgment
 
 Inspired by learning exercises and improved into a real-world mini project.
 
